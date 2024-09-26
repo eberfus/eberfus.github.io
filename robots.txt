@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eberfus.github.io/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/app/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/assets/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/css/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/data/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/includes/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/item/sitemap.eberfus.gz
+Sitemap: https://eberfus.github.io/src/sitemap.eberfus.gz
